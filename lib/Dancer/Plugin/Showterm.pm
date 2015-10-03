@@ -21,7 +21,7 @@ In your app:
 =head1 DESCRIPTION
 
 This plugin is a L<Dancer> port of the wonderful L<http://showterm.io>, which allows
-terminal screen captures taken via the UNIX tool L<http://man7.org/linux/man-pages/man1/script.1.html|script> to be 
+terminal screen captures taken via the UNIX tool L<script|http://man7.org/linux/man-pages/man1/script.1.html> to be 
 replayed in the browser. 
 
 The plugin will intercept any request for files with a F<.showterm> extension and will generate an
