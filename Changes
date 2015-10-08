@@ -6,6 +6,7 @@ Revision history for Dancer-Plugin-Showterm
   [ BUG FIXES ]
 
   [ DOCUMENTATION ]
+  - Fixed doc link. (GH#1, Justin Cook)
 
   [ ENHANCEMENTS ]
 
