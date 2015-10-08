@@ -1,18 +1,11 @@
 Revision history for Dancer-Plugin-Showterm
 
-{{$NEXT}}
-  [ API CHANGES ]
-
-  [ BUG FIXES ]
-
+0.0.2 2015-10-08
   [ DOCUMENTATION ]
-  - Fixed doc link. (GH#1, Justin Cook)
-
-  [ ENHANCEMENTS ]
-
-  [ NEW FEATURES ]
+    - Fixed doc link. (GH#1, Justin Cook)
 
   [ STATISTICS ]
+    - code churn: 4 files changed, 28 insertions(+), 1 deletion(-)
 
 0.0.1 2015-09-18
   - First version, unleashed on an unsuspecting world.
